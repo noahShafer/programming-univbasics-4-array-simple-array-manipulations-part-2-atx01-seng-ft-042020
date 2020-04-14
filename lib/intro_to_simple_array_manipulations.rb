@@ -7,3 +7,6 @@ def using_insert(array, element)
   return array
 end
 
+def using_uniq(array)
+  return array.uniq  
+end
